@@ -1,0 +1,14 @@
+# Tutto il sito Drupal.
+website
+
+# Docker.
+docker/.env
+docker/docker-compose.override.yml
+docker/mariadb-init/*
+
+# Database dumps.
+*.sql
+*.sql.gz
+
+# JetBrain
+.idea
